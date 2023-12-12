@@ -9,7 +9,7 @@ This project enables users to retrieve the list of all movies that contain the w
 
 Here are a few glimpses of the React app:
 
-![Moviesonthego_ss3](https://github.com/sriya-singh/MoviesOnTheGo-ReactProject/assets/133565083/c1bccb41-0c68-4a0c-8872-665efe7f1173)
+![Moviesonthego_ss1](https://github.com/sriya-singh/MoviesOnTheGo-ReactProject/assets/133565083/eb991742-c345-4b7a-9073-d4c49589b77b)
 
 ![Moviesonthego_ss2](https://github.com/sriya-singh/MoviesOnTheGo-ReactProject/assets/133565083/6fa6e07d-e3d0-4a14-a3f4-4267991096a5)
 
